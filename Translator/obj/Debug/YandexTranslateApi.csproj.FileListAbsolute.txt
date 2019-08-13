@@ -1,0 +1,13 @@
+D:\Projects\YandexTranslateApi\YandexTranslateApi\bin\Debug\YandexTranslateApi.exe.config
+D:\Projects\YandexTranslateApi\YandexTranslateApi\bin\Debug\YandexTranslateApi.exe
+D:\Projects\YandexTranslateApi\YandexTranslateApi\bin\Debug\YandexTranslateApi.pdb
+D:\Projects\YandexTranslateApi\YandexTranslateApi\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\YandexTranslateApi\YandexTranslateApi\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\YandexTranslateApi\YandexTranslateApi\obj\Debug\YandexTranslateApi.csprojAssemblyReference.cache
+D:\Projects\YandexTranslateApi\YandexTranslateApi\obj\Debug\YandexTranslateApi.Form1.resources
+D:\Projects\YandexTranslateApi\YandexTranslateApi\obj\Debug\YandexTranslateApi.Properties.Resources.resources
+D:\Projects\YandexTranslateApi\YandexTranslateApi\obj\Debug\YandexTranslateApi.csproj.GenerateResource.cache
+D:\Projects\YandexTranslateApi\YandexTranslateApi\obj\Debug\YandexTranslateApi.csproj.CoreCompileInputs.cache
+D:\Projects\YandexTranslateApi\YandexTranslateApi\obj\Debug\YandexTranslateApi.csproj.CopyComplete
+D:\Projects\YandexTranslateApi\YandexTranslateApi\obj\Debug\YandexTranslateApi.exe
+D:\Projects\YandexTranslateApi\YandexTranslateApi\obj\Debug\YandexTranslateApi.pdb

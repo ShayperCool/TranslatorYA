@@ -1,0 +1,13 @@
+D:\Projects\YandexTranslateApi\YandexTranslateApi\bin\Release\Newtonsoft.Json.dll
+D:\Projects\YandexTranslateApi\YandexTranslateApi\bin\Release\Newtonsoft.Json.xml
+D:\Projects\YandexTranslateApi\YandexTranslateApi\obj\Release\YandexTranslateApi.csprojAssemblyReference.cache
+D:\Projects\YandexTranslateApi\YandexTranslateApi\obj\Release\YandexTranslateApi.csproj.GenerateResource.cache
+D:\Projects\YandexTranslateApi\YandexTranslateApi\obj\Release\YandexTranslateApi.csproj.CoreCompileInputs.cache
+D:\Projects\YandexTranslateApi\YandexTranslateApi\obj\Release\YandexTranslateApi.csproj.CopyComplete
+D:\Projects\YandexTranslateApi\YandexTranslateApi\bin\Release\Translator.exe.config
+D:\Projects\YandexTranslateApi\YandexTranslateApi\bin\Release\Translator.exe
+D:\Projects\YandexTranslateApi\YandexTranslateApi\bin\Release\Translator.pdb
+D:\Projects\YandexTranslateApi\YandexTranslateApi\obj\Release\Translator.Form1.resources
+D:\Projects\YandexTranslateApi\YandexTranslateApi\obj\Release\Translator.Properties.Resources.resources
+D:\Projects\YandexTranslateApi\YandexTranslateApi\obj\Release\Translator.exe
+D:\Projects\YandexTranslateApi\YandexTranslateApi\obj\Release\Translator.pdb
