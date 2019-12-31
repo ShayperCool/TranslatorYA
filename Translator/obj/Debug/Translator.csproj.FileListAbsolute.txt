@@ -1,0 +1,11 @@
+C:\projects\csharp\TranslatorYA\Translator\bin\Debug\Translator.exe.config
+C:\projects\csharp\TranslatorYA\Translator\bin\Debug\Translator.exe
+C:\projects\csharp\TranslatorYA\Translator\bin\Debug\Translator.pdb
+C:\projects\csharp\TranslatorYA\Translator\bin\Debug\Newtonsoft.Json.dll
+C:\projects\csharp\TranslatorYA\Translator\bin\Debug\Newtonsoft.Json.xml
+C:\projects\csharp\TranslatorYA\Translator\obj\Debug\Translator.Form1.resources
+C:\projects\csharp\TranslatorYA\Translator\obj\Debug\Translator.Properties.Resources.resources
+C:\projects\csharp\TranslatorYA\Translator\obj\Debug\Translator.csproj.GenerateResource.cache
+C:\projects\csharp\TranslatorYA\Translator\obj\Debug\Translator.csproj.CopyComplete
+C:\projects\csharp\TranslatorYA\Translator\obj\Debug\Translator.exe
+C:\projects\csharp\TranslatorYA\Translator\obj\Debug\Translator.pdb
