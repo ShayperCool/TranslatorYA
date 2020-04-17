@@ -19,8 +19,8 @@
 		#region Код, автоматически созданный конструктором форм Windows
 
 		/// <summary>
-		/// Требуемый метод для поддержки конструктора — не изменяйте 
-		/// содержимое этого метода с помощью редактора кода.
+		/// Required method for Designer support - do not modify
+		/// the contents of this method with the code editor.
 		/// </summary>
 		private void InitializeComponent() {
 			this.textBox1 = new System.Windows.Forms.TextBox();
@@ -34,8 +34,7 @@
 			// 
 			// textBox1
 			// 
-			this.textBox1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
+			this.textBox1.Anchor = ((System.Windows.Forms.AnchorStyles) (((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) | System.Windows.Forms.AnchorStyles.Right)));
 			this.textBox1.Location = new System.Drawing.Point(12, 51);
 			this.textBox1.Multiline = true;
 			this.textBox1.Name = "textBox1";
@@ -45,9 +44,7 @@
 			// 
 			// textBox2
 			// 
-			this.textBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
+			this.textBox2.Anchor = ((System.Windows.Forms.AnchorStyles) ((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) | System.Windows.Forms.AnchorStyles.Left) | System.Windows.Forms.AnchorStyles.Right)));
 			this.textBox2.Location = new System.Drawing.Point(13, 183);
 			this.textBox2.Multiline = true;
 			this.textBox2.Name = "textBox2";
@@ -87,8 +84,7 @@
 			// 
 			// yandexKey
 			// 
-			this.yandexKey.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
+			this.yandexKey.Anchor = ((System.Windows.Forms.AnchorStyles) (((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) | System.Windows.Forms.AnchorStyles.Right)));
 			this.yandexKey.Location = new System.Drawing.Point(13, 25);
 			this.yandexKey.Name = "yandexKey";
 			this.yandexKey.Size = new System.Drawing.Size(337, 20);
@@ -119,20 +115,20 @@
 			this.Name = "Form1";
 			this.Text = "Translator";
 			this.Load += new System.EventHandler(this.Form1_Load);
+			this.TextChanged += new System.EventHandler(this.Form1_TextChanged);
 			this.ResumeLayout(false);
 			this.PerformLayout();
-
 		}
 
-		#endregion
-
+		private System.Windows.Forms.Button button1;
+		private System.Windows.Forms.CheckBox checkBox1;
+		private System.Windows.Forms.Label label1;
 		private System.Windows.Forms.TextBox textBox1;
 		private System.Windows.Forms.TextBox textBox2;
-		private System.Windows.Forms.Button button1;
 		private System.Windows.Forms.TextBox textBox3;
-		private System.Windows.Forms.CheckBox checkBox1;
 		private System.Windows.Forms.TextBox yandexKey;
-		private System.Windows.Forms.Label label1;
+
+		#endregion
 	}
 }
 

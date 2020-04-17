@@ -73,5 +73,9 @@ namespace Translator {
 		private void yandexKey_TextChanged(object sender, EventArgs e) {
 			SaveKey(((TextBox)sender).Text);
 		}
+
+		private void Form1_TextChanged(object sender, EventArgs e) {
+			TranslateTextAsync();
+		}
 	}
 }
